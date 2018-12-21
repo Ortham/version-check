@@ -1,0 +1,9 @@
+[package]
+name = "version-check"
+version = "0.1.0"
+authors = ["Oliver Hamlet <oliver.hamlet@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
+pelite = "0.7.0"
